@@ -1,9 +1,30 @@
 ---
-title: About me
+layout: default
+title: "关于：About"
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+## 个人简介：
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+* 欧阳利平
+* Web后台开发、Android应用开发爱好者
+* 来自江西 现居广州
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+## 联系方式
+
+<p class="contact">
+ <a href="http://weibo.com/ouyanglip" title="微博联系我"><img src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_32x32.png" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+        <a href="http://www.zhihu.com/people/lippi-ouyang" title="知乎联系我"><img src="http://www.zhihu.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+ <a href="https://github.com/LippiOuYang" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+邮箱: ouyanglip@gmail.com 
+</p>
+
+### 关于本站：
+
+* 搭建于[Github](https://github.com/LippiOuYang/LippiOuYang.github.io),欢迎Fork
+* 模板及样式来源[Useful Paradigm](http://usefulparadigm.com/)
+* 折腾开始于2014年6月1日，基本在2014年6月15日完工。
+
+## 其他流言
+* 未**女昏**人士；
+* 阿森纳球迷；
+* 实况足球忠实粉丝；
